@@ -1,7 +1,19 @@
-import "./App.css";
+import { CardAmigos } from "./components/CardAmigos/CardAmigos";
+import { CardFamilia } from "./components/CardFamilia/CardFamilia";
+import { CardFotos } from "./components/CardFotos/CardFotos";
+import { Footer } from "./components/Footer/Footer";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <div>
+        <CardFotos />
+        <CardFamilia />
+        <CardAmigos />
+        <Footer />
+      </div>
+    </>
+  );
 }
 
 export default App;
