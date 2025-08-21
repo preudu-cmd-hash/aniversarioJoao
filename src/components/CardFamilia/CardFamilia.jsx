@@ -10,6 +10,7 @@ export const CardFamilia = () => {
     { id: 5, nome: "Mateus", texto: "lorem", urlImg: "" },
     { id: 6, nome: "Jailane", texto: "lorem", urlImg: "" },
     { id: 7, nome: "Dona Aparecida", texto: "lorem", urlImg: "" },
+    { id: 8, nome: "Dona fátima", texto: "lorem", urlImg: "" },
   ];
 
   const [cardAmpliado, setCardAmpliado] = useState(null);
