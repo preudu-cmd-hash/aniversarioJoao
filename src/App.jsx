@@ -1,6 +1,7 @@
 import { CardAmigos } from "./components/CardAmigos/CardAmigos";
 import { CardFamilia } from "./components/CardFamilia/CardFamilia";
 import { CardFotos } from "./components/CardFotos/CardFotos";
+import IndividualIntervalsExample from "./components/Carrossel/Carrossel";
 import { Footer } from "./components/Footer/Footer";
 
 function App() {
