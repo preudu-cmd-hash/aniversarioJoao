@@ -1,0 +1,22 @@
+.container {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 15px;
+    gap: 7px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem {
+    height: 100px;
+    width: auto;
+    border-radius: 50%; 
+}
+
+.nome {
+    font-weight: 800;
+}

@@ -1,9 +1,11 @@
+import styles from "./CardsProps.module.css";
+
 export const CardsProps = ({ imagem, nome, mensagem }) => {
   return (
-    <div>
-      <img src={imagem} alt={nome} />
-      <h3>{nome}</h3>
-      <p>{mensagem}</p>
+    <div className={styles.container}>
+      <img src={imagem} alt={nome} className={styles.imagem} />
+      <h3 className={styles.nome}>{nome}</h3>
+      <p className={styles.mensagem}>{mensagem}</p>
     </div>
   );
 };
