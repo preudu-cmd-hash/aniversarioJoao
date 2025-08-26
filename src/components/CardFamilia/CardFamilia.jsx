@@ -2,6 +2,7 @@ import styles from "./CardFamilia.module.css";
 import Pinguim from "../../images/pinguim.jpg";
 import { CardsProps } from "../CardsProps/CardsProps";
 
+// Esta parte guarda os dados do map
 const dados = [
   {
     imagem: Pinguim,
@@ -48,6 +49,7 @@ const dados = [
 export const CardFamilia = () => {
   return (
     <>
+      {/* Mapeamento dos dados da contante */}
       <div className={styles.container}>
         {dados.map((dado) => (
           <CardsProps
@@ -56,6 +58,9 @@ export const CardFamilia = () => {
             mensagem={dado.mensagem}
           />
         ))}
+
+        {/* Props de uma forma menos manutenível */}
+
         {/* <CardsProps imagem={Pinguim} nome="Rosi" mensagem="Lorem" />
         <CardsProps nome="Dona Aparecida" mensagem="Lorem" />
         <CardsProps nome="Júlio" mensagem="Lorem" />

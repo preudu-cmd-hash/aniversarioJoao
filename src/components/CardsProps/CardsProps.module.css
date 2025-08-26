@@ -1,3 +1,4 @@
+/* ===== Estilização do container dos cards ===== */
 .container {
     background-color: black;
     color: aliceblue;
@@ -11,12 +12,19 @@
     align-items: center;
 }
 
+/* ===== Estilização da imagem dos cards ===== */
 .imagem {
     height: 100px;
     width: auto;
     border-radius: 50%; 
 }
 
+/* ===== Estilização do nome ===== */
 .nome {
     font-weight: 800;
+}
+
+/* ===== Estilização da mensagem ===== */
+.mensagem {
+    font-weight: 500;
 }
