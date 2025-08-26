@@ -1,5 +1,5 @@
 /* ===== Estilização do container dos cards ===== */
-.container {
+.containerProps {
     background-color: black;
     color: aliceblue;
     border-radius: 15px;
@@ -16,7 +16,7 @@
 .imagem {
     height: 100px;
     width: auto;
-    border-radius: 50%; 
+    border-radius: 50%;
 }
 
 /* ===== Estilização do nome ===== */
