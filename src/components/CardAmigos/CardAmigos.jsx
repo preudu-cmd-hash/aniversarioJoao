@@ -3,7 +3,11 @@ import JoaoGabriel from "../../images/joaoGabriel.jpeg";
 import Pedro from "../../images/pedro.jpg";
 import Cesar from "../../images/cesar.jpg";
 import Daniel from "../../images/daniel.jpeg";
+import God from "../../images/god.png";
+import Victor from "../../images/victor.jpeg";
 import Poste from "../../images/poste.jpeg";
+import Moon from "../../images/moon.jpg";
+import Gallo from "../../images/gallo.png";
 import { CardsProps } from "../CardsProps/CardsProps";
 import { Carousel } from "react-bootstrap";
 
@@ -25,7 +29,7 @@ const dados = [
   },
   {
     id: 3,
-    imagem: Pinguim,
+    imagem: God,
     nome: "God",
     mensagem:
       "Salve João. É seu aniversário e não pude ficar de fora, MEUS PARABÉNS 🥳 🎂Mano te desejo tudo de bom e do melhor, fico muito feliz de ter você como amigo, que suas conquistas seja uma pequena demostração de tudo que te espera, você é Demais 🤜🏽🤛🏽Quem diria que uma amizade pela Internet pode ser tão foda assim 😆😆 não esqueço do dia que estavamos dançando e bebendo na casa do César kkkkk nunca vou esquecer kkkkk bom... é isso, Tmj 😝",
@@ -39,40 +43,36 @@ const dados = [
   },
   {
     id: 5,
-    imagem: Pinguim,
+    imagem: Victor,
     nome: "Victor",
-    mensagem: "Lorem",
+    mensagem:
+      "Vi aqui na minha agenda que hoje é o seu 🫵🏻 aniversário. Feliz vida, João! Desejo tudo de bom na sua vida, que Deus Pai o abençoe hoje e sempre! Amigo do peito é colete o resto é bala🤟🏻💪🏻🔥 Se quiser textão vai ler a bíblia.",
   },
   {
     id: 6,
-    imagem: Pinguim,
+    imagem: Moon,
     nome: "Moon",
     mensagem:
       "Eu nunca pensei que um mlk que eu conheci em um servidor do minecraft fosse mudar tanto a minha vida. Parabéns amigo, eu amo muito você",
   },
   {
     id: 7,
-    imagem: Pinguim,
-    nome: "Gallo",
-    mensagem: "Lorem",
-  },
-  {
-    id: 8,
-    imagem: Pinguim,
-    nome: "Ivo",
-    mensagem: "Lorem",
-  },
-  {
-    id: 9,
     imagem: JoaoGabriel,
     nome: "João Gabriel",
     mensagem:
       "Po mano sei que não sou de falar mas te considero muito vc me apoiou em momentos muitos difíceis e sou muito grato por isso pode sempre contar comigo um fez aniversário ae seu idoso.",
   },
   {
-    id: 10,
+    id: 8,
     imagem: Daniel,
     nome: "Daniel",
+    mensagem:
+      "Feliz aniversário irmão, muitos anos de vida para você, você e uma pessoa muita boa nunca se esqueça disso você merece o mundo irmão e só ter a força de vontade para pegar o que e seu, saiba que qualquer coisa estou aqui com você desejo muito sucesso na sua vida, sei que não estamos se falando muito recentemente acabamos seguindo um pouco separados mas saiba que você pra mim e um dos meus melhores amigos e isso não mudou e nem vai mudar não importa quanto tempo a gente fique sem se falar ou sem se ver e só me mandar uma mensagem que apareço em 2 minutos, enfim feliz aniversário e  muita paz nesse 'novo ano'",
+  },
+  {
+    id: 9,
+    imagem: Gallo,
+    nome: "Gallo",
     mensagem:
       "Feliz aniversário irmão, muitos anos de vida para você, você e uma pessoa muita boa nunca se esqueça disso você merece o mundo irmão e só ter a força de vontade para pegar o que e seu, saiba que qualquer coisa estou aqui com você desejo muito sucesso na sua vida, sei que não estamos se falando muito recentemente acabamos seguindo um pouco separados mas saiba que você pra mim e um dos meus melhores amigos e isso não mudou e nem vai mudar não importa quanto tempo a gente fique sem se falar ou sem se ver e só me mandar uma mensagem que apareço em 2 minutos, enfim feliz aniversário e  muita paz nesse 'novo ano'",
   },
