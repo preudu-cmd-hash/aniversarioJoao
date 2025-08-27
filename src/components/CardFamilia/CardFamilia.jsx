@@ -25,7 +25,8 @@ const dados = [
     id: 2,
     imagem: DonaAparecida,
     nome: "Dona Aparecida",
-    mensagem: "Lorem",
+    mensagem:
+      "João aqui é a vó, quero te desejar um feliz aniversário que seus caminhos sejam abertos em nome de Jesus! Essa mensagem com muito amor e carinho, te amo muito 😘❤️ vó Aparecida",
   },
   {
     id: 3,
