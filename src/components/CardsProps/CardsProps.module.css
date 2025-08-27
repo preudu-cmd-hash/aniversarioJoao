@@ -1,7 +1,8 @@
 /* ===== Estilização do container dos cards ===== */
 .containerProps {
-    background-color: black;
-    color: aliceblue;
+    background: radial-gradient(circle, #025e5d 0%, #013a73 100%);
+    box-shadow: 0 0 5px #151589;
+    color: rgb(163, 168, 173);
     border-radius: 15px;
     gap: 7px;
     margin: 10px;
@@ -10,7 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 350px;
+    height: 800px;
     width: 35%;
     margin: auto;
     margin-bottom: 15px;
@@ -18,17 +19,20 @@
 
 /* ===== Estilização da imagem dos cards ===== */
 .imagem {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
 }
 
 /* ===== Estilização do nome ===== */
 .nome {
+    font-size: xx-large;
     font-weight: 800;
 }
 
 /* ===== Estilização da mensagem ===== */
 .mensagem {
     font-weight: 500;
+    margin: 10px;
+    padding: 7px;
 }
