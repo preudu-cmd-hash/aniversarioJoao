@@ -74,7 +74,7 @@ const dados = [
     imagem: Gallo,
     nome: "Gallo",
     mensagem:
-      "Feliz aniversário irmão, muitos anos de vida para você, você e uma pessoa muita boa nunca se esqueça disso você merece o mundo irmão e só ter a força de vontade para pegar o que e seu, saiba que qualquer coisa estou aqui com você desejo muito sucesso na sua vida, sei que não estamos se falando muito recentemente acabamos seguindo um pouco separados mas saiba que você pra mim e um dos meus melhores amigos e isso não mudou e nem vai mudar não importa quanto tempo a gente fique sem se falar ou sem se ver e só me mandar uma mensagem que apareço em 2 minutos, enfim feliz aniversário e  muita paz nesse 'novo ano'",
+      "Salve CARIOCA SFD! Feliz aniversário man. Lembro das risadas, as calls do nada q me fizeram rir até quando está a destruído psicologicamente, João, muito obrigado por ter sido esse amigo e parceiro incrível q vc é. E por ter me ajudado a cuidar desse bando de maluco q tem na Party do RPG... É suicida e vai indo até criança maluca. Muito obrigada por ser qm vc é Man. Mesmo torcendo pra BOSTA DO FLAMENGO! Te respeito e considero família, Tmj Man. Qualquer dia eu colo no Rio de grupão, eu, César e Ivo kkkk. Tenho certeza q vai ser um rolê incrível q nem as madrugadas em call trocando ideia kkkk. Tmj EMO SFD, feliz aniversário, Tmj!",
   },
 ];
 
