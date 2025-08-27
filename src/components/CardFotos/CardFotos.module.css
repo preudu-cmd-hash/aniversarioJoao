@@ -1,0 +1,33 @@
+.fotos{ 
+    width: 100%;
+    height: 650px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Container_texto {
+    width: 40%;
+    height: 100%;
+}
+
+.Container_imagens {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Titulo{
+    font-size: 55px;
+    padding-top: 80px;
+    padding-left: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Texto {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 15px;
+}
