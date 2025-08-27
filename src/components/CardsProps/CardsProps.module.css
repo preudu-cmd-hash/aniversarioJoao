@@ -10,12 +10,16 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 350px;
+    width: 35%;
+    margin: auto;
+    margin-bottom: 15px;
 }
 
 /* ===== Estilização da imagem dos cards ===== */
 .imagem {
     height: 100px;
-    width: auto;
+    width: 100px;
     border-radius: 50%;
 }
 
