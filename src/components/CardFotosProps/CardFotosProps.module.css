@@ -1,0 +1,78 @@
+.Card {
+    width: 350px;
+    height: 500px;
+    background-color: #FFFFFE;
+    border-radius: 20px;
+}
+
+.Perfil {
+    width: 100%;
+    height: 80px;
+    padding-top: 5px;
+    padding-left: 30px;
+}
+
+.Imagem {
+    width: 100%;
+    height: 365px;
+}
+
+.Status {
+    width: 100%;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 8px;
+}
+
+.Container_Perfil {
+    width: 220px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Perfil_Imagem {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+.Usuario {
+      font-family: "Inter", sans-serif;
+      font-size: 20px;
+      font-weight: bolder;
+      padding-left: 10px;
+      padding-top: 15px;
+}
+
+.Imagem_Usuario {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+.Imagens {
+    width: 100%;
+    height: 100%;
+}
+
+.Status1 {
+    width: 150px;
+    height: 80%;
+    background-color: yellow;
+    margin-left: 30px;
+}
+
+.Status2 {
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    margin-left: 110px;
+}
+
+.Icone {
+    width: 100%;
+    height: 100%;
+}
