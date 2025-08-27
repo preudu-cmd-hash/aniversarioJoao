@@ -8,3 +8,6 @@
   box-sizing: border-box;
   padding: 0;
 }
+body {
+    background: radial-gradient(circle, #025e5d 0%, #013a73 100%);
+}
