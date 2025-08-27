@@ -45,7 +45,8 @@ const dados = [
     id: 5,
     imagem: Mateus,
     nome: "Mateus",
-    mensagem: "Lorem",
+    mensagem:
+      "Feliz aniversário, João Vitor. Que Deus sempre lhe abençoe e te conceda muitas alegrias e saúde, tenho muito orgulho de você, sempre me ensinou a ser mais leve, é um menino muito carinhoso e cuidadoso continue assim. Saudades de você, te amo!!!!",
   },
   {
     id: 6,
@@ -64,7 +65,7 @@ const dados = [
   {
     id: 8,
     imagem: DonaFatima,
-    nome: "Dona Fátima",
+    nome: "Dinda",
     mensagem:
       "Hoje é um dia especial, mas nos leva a um mais especial, quando nascia um pequeno, mas lindo bebê, agora já um jovem, que continua lindo, carinhoso e amável, te amo. Você é muito importante.",
   },
@@ -96,6 +97,14 @@ const dados = [
     nome: "Rafa",
     mensagem:
       "Feliz aniversário João! Que Deus abençoe muito sua vida, realizando todos seus sonhos e objetivos!! Estou muito feliz em poder comemorar junto contigo esse dia tão especial 🥰, você mora no meu coração, e nunca deixou de ser meu irmão mais novo ❤️ Beijos Rafa",
+  },
+  {
+    id: 13,
+    imagem:
+      "https://scontent.fsdu12-2.fna.fbcdn.net/v/t39.30808-1/470210455_8985091134918835_7125534607248291009_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHFv0CcSPZhawsNuRfnkXQib1JNaH7cZqdvUk1oftxmp7sScQkVkgkC9oGKHbI6okhSr6Srt5ogLieHlaw1BOQ2&_nc_ohc=I5YptZdyTYIQ7kNvwEJhUGm&_nc_oc=Adn1ywZ9lWYQzPIZbGEIkaa9olSdCnUBuilDFvx6R7mT1wKkBeMOlTuzpQyKJs0eQpS1kU_eMTWf3a1vHEq69Eww&_nc_zt=24&_nc_ht=scontent.fsdu12-2.fna&_nc_gid=grQHvsNqGl2r4vqDsQPwwQ&oh=00_AfVLrLYZMlGFjRe6xkWyhJyw_OokUhQ0UWah9eCb-QBgMg&oe=68B4D3AC",
+    nome: "Milca",
+    mensagem:
+      "João?! Amor da vida da prima!!! Passando p te desejar o melhor: saúde, sucesso, amor, paz... Saiba q eu sempre estarei aqui p vc e seus irmãos! Nesta data, oro p que Jesus te abençoe e Nossa Senhora te ilumine infinitamente! Grande Bj no seu coração e um forte abraço da prima!!!! Te amo muitao e p sempre!!!!",
   },
 ];
 
