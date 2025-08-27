@@ -1,5 +1,7 @@
 import Pinguim from "../../images/pinguim.jpg";
 import JoaoGabriel from "../../images/joaoGabriel.jpeg";
+import Pedro from "../../images/pedro.jpg";
+import Cesar from "../../images/cesar.jpg";
 import Daniel from "../../images/daniel.jpeg";
 import Poste from "../../images/poste.jpeg";
 import { CardsProps } from "../CardsProps/CardsProps";
@@ -9,15 +11,17 @@ import { Carousel } from "react-bootstrap";
 const dados = [
   {
     id: 1,
-    imagem: Pinguim,
+    imagem: Cesar,
     nome: "César",
-    mensagem: "Lorem",
+    mensagem:
+      "Salve irmão não tenho muito pra te falar mais saiba que pode contar comigo a qualquer hora Tmj feliz aniversário irmão",
   },
   {
     id: 2,
-    imagem: Pinguim,
+    imagem: Pedro,
     nome: "Pedro",
-    mensagem: "Lorem",
+    mensagem:
+      "Bom, você sabe que não sou muito bom com palavras, mas te desejo tudo de bom nessa tua vida, que tu consiga conquistar tudo que tu quer e deseja, e só tenha felicidades e alegrias irmão, tmj sempre, se precisar de alguma coisa sabe que pode contar comigo. Feliz aniversário mano!",
   },
   {
     id: 3,
